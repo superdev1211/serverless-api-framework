@@ -1,4 +1,4 @@
 'use strict';
 
 // auto-generated build metadata
-module.exports = { hash: '80b5f225' };
+module.exports = { hash: 'cb72c25c' };
